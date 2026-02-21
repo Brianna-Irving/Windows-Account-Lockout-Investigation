@@ -61,11 +61,14 @@ Further investigation would include:
 
 ## Evidence
 
-### Lockout Policy Configuration
+### Account Lockout Policy
 ![Lockout Policy](01-lockout-policy-config.png)
 
-### Failed Logon Attempts (Event ID 4625)
+### Account Locked Message
+![Account Locked](02-account-locked-message.png) 
+
+### Multiple Failed Logins (Event ID 4625)
 ![Failed Logons](03-multiple-4625.png)
 
-### Account Lockout Event (Event ID 4740)
+### Account Lockout Event Details (Event ID 4740)
 ![Account Lockout](04-event-4740-details.png)
