@@ -62,7 +62,7 @@ Further investigation would include:
 ## Evidence
 
 ### Account Lockout Policy
-![Lockout Policy](01-lockout-policy-config.png)
+![Lockout Policy](01-lockout-policy.png)
 
 ### Account Locked Message
 ![Account Locked](02-account-locked-message.png) 
